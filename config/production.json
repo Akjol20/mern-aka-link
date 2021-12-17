@@ -1,0 +1,7 @@
+{
+    "port":5000,
+    "jwtSecret":"akjol aka mirov react/nodejs",
+    "mongoUri":"mongodb+srv://akamern:akamern@cluster0.11cxd.mongodb.net/mern?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+  }
+  
